@@ -1,2 +1,2 @@
-# Frontend-INTRO-practicas
-¡Hola! Aquí podrás encontrar las primeras prácticas introductorias de Frontend.
+# Frontend-Prácticas
+¡Hola! Aquí podrás encontrar las prácticas de Frontend.
